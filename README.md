@@ -44,7 +44,9 @@ Inicio
         De Otro Modo:
             Escribir "Opción no válida."
 
+
     FinSegun
 
 Fin
 ```
+<img width="363" height="738" alt="Captura de pantalla 2026-08-05 140234" src="https://github.com/user-attachments/assets/3a288876-c9ca-4ef2-b961-a4a174c8bb54" />
